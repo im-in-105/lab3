@@ -1,0 +1,3 @@
+[submodule "no2"]
+	path = no2
+	url = https://github.com/im-in-105/lab3.git
